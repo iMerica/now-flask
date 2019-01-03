@@ -10,6 +10,7 @@
   "main": "index.js",
   "name": "@imichael/now-flask",
   "description": "A builder for Flask on Zeit Now",
+  "repository": "https://github.com/iMerica/now-flask",
   "peerDependencies": {
     "@now/build-utils": ">=0.0.1"
   },
