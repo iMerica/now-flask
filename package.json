@@ -1,0 +1,18 @@
+{
+
+  "bundleDependencies": false,
+  "dependencies": {
+    "execa": "^1.0.0",
+    "fs.promised": "^3.0.0",
+    "node-fetch": "^2.2.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@imichael/now-flask",
+  "description": "A builder for Flask on Zeit Now",
+  "peerDependencies": {
+    "@now/build-utils": ">=0.0.1"
+  },
+  "private": false,
+  "version": "0.0.1"
+}
