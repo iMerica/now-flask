@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "name": "@imichael/now-flask",
+  "name": "now-flask",
   "description": "A builder for Flask on Zeit Now",
   "repository": "https://github.com/iMerica/now-flask",
   "peerDependencies": {
